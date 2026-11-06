@@ -1,0 +1,5 @@
+zone "lab.117484261.300.ops" {
+    type secondary;
+    primaries { 192.168.24.10; };
+    file "/var/cache/bind/db.lab.117484261.300.ops";
+};
